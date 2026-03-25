@@ -52,7 +52,7 @@ export default function Roles() {
             <div className="reference">
                 <a className="bao" href="https://www.instagram.com/baobuntian/" target="_blank" rel="noopener noreferrer">Bao Tian</a>
                 <a className="dish" href="https://www.youtube.com/channel/UCzRYgazdbTdOB9WOqhTAWbQ" target="_blank" rel="noopener noreferrer">TheDishLasagne</a>
-                <a className="blob" href="https://www.youtube.com/watch?v=41YGL4XLqIo" target="_blank" rel="noopener noreferrer">Laziness </a>
+                <a className="blob" href="." target="_blank" rel="noopener noreferrer">K </a>
             </div>
         </div>
     )
